@@ -1,6 +1,6 @@
 {
   "name": "@dawei_chen/core",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "davy_chen <davy_chen@epam.com>",
   "homepage": "https://github.com/davych/lerna-case#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/davych/lerna-case/issues"
   },
-  "gitHead": "1473be065f8854c52415c095d5f389b933b27124"
+  "gitHead": "332d201e8fcc72b11ab8e2abadd52f3f347f09de"
 }
