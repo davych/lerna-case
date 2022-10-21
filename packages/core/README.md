@@ -1,11 +1,11 @@
-# `@davy/core`
+# `@dawei_chen/core`
 
 > TODO: description
 
 ## Usage
 
 ```
-const core = require('@davy/core');
+const core = require('@dawei_chen/core');
 
 // TODO: DEMONSTRATE API
 ```

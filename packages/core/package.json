@@ -1,5 +1,5 @@
 {
-  "name": "@davy/core",
+  "name": "@dawei_chen/core",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "davy_chen <davy_chen@epam.com>",
@@ -21,10 +21,10 @@
     "url": "git+https://github.com/davych/lerna-case.git"
   },
   "scripts": {
-    "test": "node ./__tests__/@davy/core.test.js"
+    "test": "node ./__tests__/@dawei_chen/core.test.js"
   },
   "bugs": {
     "url": "https://github.com/davych/lerna-case/issues"
   },
-  "gitHead": "d96c2e9684a7a4ffab8aa2cb73e7b097faaec4d2"
+  "gitHead": "2e97409e6fda1f9223c0cabe7899c3a769cd608a"
 }
