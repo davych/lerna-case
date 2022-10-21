@@ -1,1 +1,1 @@
-console.log('Hello World!, this is core');
+console.log('Hello World!, this is core1');
