@@ -2,7 +2,6 @@
 0 silly argv   _: [ 'publish' ],
 0 silly argv   yes: true,
 0 silly argv   y: true,
-0 silly argv   registry: 'registry.npmjs.org',
 0 silly argv   composed: 'publish',
 0 silly argv   lernaVersion: '6.0.1',
 0 silly argv   '$0': 'lerna',
@@ -11,10 +10,10 @@
 1 notice cli v6.0.1
 2 verbose rootPath /Users/davy_chen/workspace/lerna-case
 3 info versioning independent
-4 verbose session 8d54cc6954a9d62c
+4 verbose session 680a4aec552f14ff
 5 verbose user-agent lerna/6.0.1/node@v16.18.0+x64 (darwin)
-6 verbose git-describe undefined => "v0.0.2-2-g2c7d576"
-7 silly git-describe parsed => {"lastTagName":"v0.0.2","lastVersion":"v0.0.2","refCount":"2","sha":"2c7d576","isDirty":false}
+6 verbose git-describe undefined => "v0.0.2-6-g71f35a9"
+7 silly git-describe parsed => {"lastTagName":"v0.0.2","lastVersion":"v0.0.2","refCount":"6","sha":"71f35a9","isDirty":false}
 8 silly getUnpublishedPackages
 9 error TypeError [ERR_INVALID_URL]: Invalid URL
 9 error     at new NodeError (node:internal/errors:387:5)
