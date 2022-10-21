@@ -1,0 +1,27 @@
+0 silly argv {
+0 silly argv   _: [ 'publish' ],
+0 silly argv   yes: true,
+0 silly argv   y: true,
+0 silly argv   registry: 'registry.npmjs.org',
+0 silly argv   composed: 'publish',
+0 silly argv   lernaVersion: '6.0.1',
+0 silly argv   '$0': 'lerna',
+0 silly argv   bump: 'from-package'
+0 silly argv }
+1 notice cli v6.0.1
+2 verbose rootPath /Users/davy_chen/workspace/lerna-case
+3 info versioning independent
+4 verbose session 8d54cc6954a9d62c
+5 verbose user-agent lerna/6.0.1/node@v16.18.0+x64 (darwin)
+6 verbose git-describe undefined => "v0.0.2-2-g2c7d576"
+7 silly git-describe parsed => {"lastTagName":"v0.0.2","lastVersion":"v0.0.2","refCount":"2","sha":"2c7d576","isDirty":false}
+8 silly getUnpublishedPackages
+9 error TypeError [ERR_INVALID_URL]: Invalid URL
+9 error     at new NodeError (node:internal/errors:387:5)
+9 error     at URL.onParseError (node:internal/url:565:9)
+9 error     at new URL (node:internal/url:641:5)
+9 error     at new RegistryFetcher (/Users/davy_chen/workspace/lerna-case/node_modules/pacote/lib/registry.js:41:20)
+9 error     at FetcherBase.get (/Users/davy_chen/workspace/lerna-case/node_modules/pacote/lib/fetcher.js:529:14)
+9 error     at Object.packument (/Users/davy_chen/workspace/lerna-case/node_modules/pacote/lib/index.js:18:30)
+9 error     at mapper (/Users/davy_chen/workspace/lerna-case/node_modules/@lerna/publish/lib/get-unpublished-packages.js:24:12)
+9 error     at /Users/davy_chen/workspace/lerna-case/node_modules/p-map/index.js:57:28
