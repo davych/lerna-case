@@ -3,5 +3,5 @@
 module.exports = dcSettings;
 
 function dcSettings() {
-    return "Hello from dcSetatsaingsaa a";
+    return "Hello from dcSetat爱上saingsaa a";
 }
