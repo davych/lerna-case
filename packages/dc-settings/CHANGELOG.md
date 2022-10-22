@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/davych/lerna-case/compare/@dawei_chen/dcsettings@1.0.5...@dawei_chen/dcsettings@1.0.6) (2022-10-22)
+
+
+### Bug Fixes
+
+* a ([1944a21](https://github.com/davych/lerna-case/commit/1944a21db7474a41576c181d41c9d86bc963e640))
+
+
+
+
+
 ## [1.0.5](https://github.com/davych/lerna-case/compare/@dawei_chen/dcsettings@1.0.4...@dawei_chen/dcsettings@1.0.5) (2022-10-22)
 
 
