@@ -1,0 +1,11 @@
+{
+  "name": "@dawei_chen/daweitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm config get registry"
+  },
+  "author": "dawei_chen",
+  "license": "ISC"
+}
