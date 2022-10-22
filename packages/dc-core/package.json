@@ -6,6 +6,9 @@
   "homepage": "https://github.com/davych/lerna-case#readme",
   "license": "ISC",
   "main": "lib/@dawei_chen/dccore.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
