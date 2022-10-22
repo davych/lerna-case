@@ -3,5 +3,5 @@
 module.exports = dcSettings;
 
 function dcSettings() {
-    return "Hello from dcSettings a";
+    return "Hello from dcSettingsa a";
 }
