@@ -1,11 +1,11 @@
-# `daweichen-settings`
+# `@dawei_chen/dcsettings`
 
 > TODO: description
 
 ## Usage
 
 ```
-const dcSettings = require('daweichen-settings');
+const dcSettings = require('@dawei_chen/dcsettings');
 
 // TODO: DEMONSTRATE API
 ```
