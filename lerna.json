@@ -4,16 +4,11 @@
   "version": "independent",
   "command": {
     "version": {
-      "message": "chore(release): %v",
+      "message": "chore(release): publish %v",
       "conventionalCommits": true,
-      "gitTagVersion": true,
-      "push": true,
       "tagVersionPrefix": "markrelease-"
     },
     "publish": {
-      "verifyAccess": false,
-      "gitTagVersion": true,
-      "push": true,
       "tagVersionPrefix": "markrelease-"
     }
   }
