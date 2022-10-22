@@ -1,5 +1,20 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
   "useWorkspaces": true,
-  "version": "independent"
+  "version": "independent",
+  "command": {
+    "version": {
+      "message": "chore(release): %v",
+      "conventionalCommits": true,
+      "gitTagVersion": true,
+      "push": true,
+      "tagVersionPrefix": "markrelease-"
+    },
+    "publish": {
+      "verifyAccess": false,
+      "gitTagVersion": true,
+      "push": true,
+      "tagVersionPrefix": "markrelease-"
+    }
+  }
 }
