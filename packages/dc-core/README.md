@@ -1,11 +1,11 @@
-# `dc-core`
+# `daweichen-core`
 
 > TODO: description
 
 ## Usage
 
 ```
-const dcCore = require('dc-core');
+const dcCore = require('daweichen-core');
 
 // TODO: DEMONSTRATE API
 ```

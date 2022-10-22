@@ -1,11 +1,11 @@
-# `dc-settings`
+# `daweichen-settings`
 
 > TODO: description
 
 ## Usage
 
 ```
-const dcSettings = require('dc-settings');
+const dcSettings = require('daweichen-settings');
 
 // TODO: DEMONSTRATE API
 ```
